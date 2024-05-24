@@ -1,35 +1,7 @@
-# fz_food
+# Multimodal
 
-This template should help get you started developing with Vue 3 in Vite.
+## 介绍
+本项目实现多模态功能，通过对用户上传的文本、图片和视频进行分析，结合机器学习算法提取其中的物品并对其的真实性、相关性进行分析和评分
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+## 技术栈
+本项目使用vue3结合element-plus进行开发，仅包含前端代码
